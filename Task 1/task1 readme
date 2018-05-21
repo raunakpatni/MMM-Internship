@@ -1,0 +1,7 @@
+Task 1 was about predicting target using 16 independent varibales.
+
+I worked on the D1- Trainin Dataset for 4 days, prepare the dataset and ffound that their are 4 IV (important variables) 
+and 4 varibles are just outliers in dataset, I tried Random Forest and Desicion Tree.
+
+From Random Forest 0.65 Rsquared 
+From Decision Tree 0.60 Rsquared
